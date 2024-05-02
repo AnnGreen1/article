@@ -12,7 +12,7 @@ export default {
 };
 </script>
 
-<style lang="less">
+<style lang="scss">
 .OtherLess {
   h1 {
     color: pink;
